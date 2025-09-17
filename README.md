@@ -1,9 +1,7 @@
 ## About Me
 
-🎓 **Computer Science Student @ Texas Tech University** (B.S. ‘25, Minor in Mathematics, GPA 3.6)  
-💻 Aspiring **Software Engineer** with experience in **AI, systems programming, and full-stack development**.  
-
----
+**Computer Science Student at Texas Tech University** (Minor in Mathematics)  
+Aspiring **Software Engineer** with experience in **AI, systems programming, and full-stack development**.  
 
 ## Skills
 
@@ -11,17 +9,10 @@
 **Frameworks/Tools:** React.js, Node.js, MongoDB, Figma, Git, SolidWorks, VoIP Systems  
 **Core Competencies:** Software Debugging, Compiler Design, Troubleshooting, Network Infrastructure, Embedded Systems, Applied Mathematics  
 
----
-
 ## GitHub Stats
 ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=X-Edition&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=X-Edition&layout=compact&theme=tokyonight)
 
----
-
 ## Contacts
-- 💼 [LinkedIn](https://www.linkedin.com/in/jacobrwallace)  
-- 📧 [jacob.wallace.personal@gmail.com](mailto:jacob.wallace.personal@gmail.com)
-
----
-✨ _“Code is like humor. When you have to explain it, it’s bad.”
+- [LinkedIn](https://www.linkedin.com/in/jacobrwallace)  
+- [jacob.wallace.personal@gmail.com](mailto:jacob.wallace.personal@gmail.com)
