@@ -10,8 +10,8 @@ Aspiring **Software Engineer** with experience in **AI, systems programming, and
 **Core Competencies:** Software Debugging, Compiler Design, Troubleshooting, Network Infrastructure, Embedded Systems, Applied Mathematics  
 
 ## GitHub Stats
-![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=X-Edition&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=X-Edition&layout=compact&theme=tokyonight)
+![GitHub Stats](https://x-edition-readme.vercel.app/api?username=X-Edition&show_icons=true&cache_seconds=21600)
+![Top Langs](https://x-edition-readme.vercel.app/api/top-langs/?username=X-Edition&layout=compact&cache_seconds=21600)
 
 ## Contacts
 - [LinkedIn](https://www.linkedin.com/in/jacobrwallace)  
