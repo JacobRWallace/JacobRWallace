@@ -1,18 +1,1 @@
-## About Me
-
-**Computer Science Student at Texas Tech University** (Minor in Mathematics)  
-Aspiring **Software Engineer** with experience in **AI, systems programming, and full-stack development**.  
-
-## Skills
-
-**Languages:** C, C++, Python, Java, JavaScript, Assembly, Verilog  
-**Frameworks/Tools:** React.js, Node.js, MongoDB, Figma, Git, SolidWorks, VoIP Systems  
-**Core Competencies:** Software Debugging, Compiler Design, Troubleshooting, Network Infrastructure, Embedded Systems, Applied Mathematics  
-
-## GitHub Stats
-![GitHub Stats](https://x-edition-readme.vercel.app/api?username=X-Edition&show_icons=true&cache_seconds=21600)
-![Top Langs](https://x-edition-readme.vercel.app/api/top-langs/?username=X-Edition&layout=compact&cache_seconds=21600)
-
-## Contacts
-- [LinkedIn](https://www.linkedin.com/in/jacobrwallace)  
-- [jacob.wallace.personal@gmail.com](mailto:jacob.wallace.personal@gmail.com)
+“Code is like humor. When you have to explain it, it’s bad.”
