@@ -1,10 +1,10 @@
-<img src="gif.gif" width="100%" />
-
 ## Jacob Wallace
 
 Computer Science graduate student.  
 Focused on software engineering, systems, and applied problem-solving.
 “Deleted code is debugged code.”
+
+<img src="gif.gif" width="100%" />
 
 ### Areas of Work
 - Full-stack development
@@ -24,3 +24,4 @@ Focused on software engineering, systems, and applied problem-solving.
 
 ### Contact
 - GitHub: https://github.com/JacobRWallace
+- LinkedIn: https://www.linkedin.com/in/jacobrwallace/
