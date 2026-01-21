@@ -1,10 +1,10 @@
 ## Jacob Wallace
 
 Computer Science graduate student.  
-Focused on software engineering, systems, and applied problem-solving. 
+Focused on software engineering, systems, and applied problem-solving.  
 “Deleted code is debugged code.”
 
-<img src="gif1.gif" width="100%" />
+<img src="gif2.gif" width="100%" />
 
 ### Areas of Work
 - Full-stack development
