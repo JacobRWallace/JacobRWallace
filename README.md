@@ -1,8 +1,10 @@
 ## Jacob Wallace
 
+“Deleted code is debugged code.”  
+
+
 Computer Science graduate student.  
 Focused on software engineering, systems, and applied problem-solving.  
-“Deleted code is debugged code.”
 
 <img src="gif2.gif" width="100%" />
 
