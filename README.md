@@ -15,7 +15,7 @@ Focused on software engineering, systems, and applied problem-solving.
 - Applied AI / automation
 
 ### Tools & Technologies
-- JavaScript / TypeScript / Reacy
+- JavaScript / TypeScript
 - Node.js / Express
 - Python
 - Java / C++
