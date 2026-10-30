@@ -1,5 +1,3 @@
-## Jacob Wallace
-
 Computer Science graduate student.  
 Focused on software engineering, systems, and applied problem-solving.  
 
